@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 
-import 'Home.dart';
+import 'pages/Home.dart';
 
 void main() {
   runApp(const MyApp());
